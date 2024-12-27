@@ -826,6 +826,10 @@ body {
 
 .footer-link { padding-block: 6px; }
 
+.footer-brand{
+  width: 271px;
+}
+
 .footer-bottom {
   padding-block: 40px;
   border-block-start: 1px solid var(--prussian-blue);
